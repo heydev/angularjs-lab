@@ -1,0 +1,9 @@
+{
+  "name": "angularjs-lab",
+  "description": "Musings in AngularJS (and Node)",
+  "author": "Brian Keeter <brianrkeeter@gmail.com>",
+  "dependencies": {
+    "connect": "2.14.x"
+  },
+  "engine": "node = 0.10.x"
+}
