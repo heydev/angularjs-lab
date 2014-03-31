@@ -3,6 +3,8 @@
 
   You would need to insure the javascript references for the other
   modules were referenced in the same page as this javascript file.
+
+  Here we reference ngRoute module so we can use it within our demo module.
 */
 var demo = angular.module('demo', ['ngRoute']);
 
